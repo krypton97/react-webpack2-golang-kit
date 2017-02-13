@@ -5,5 +5,5 @@ Instllation:
 
 1.Download or clone this repo
 
-2.Install the modules and run the bass file
+2.Install the modules and run the bash file (you'll need to manually run the commands on windows)
 
