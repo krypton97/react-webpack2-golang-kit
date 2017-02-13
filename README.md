@@ -6,7 +6,9 @@ Instllation:
 
 a)Download or clone this repo
 
-b) Edit the http.Dir() path
+b) Edit the http.Dir() path in server/main.go file
 
-c)Install the modules and run the bash file (you'll need to manually run the commands on windows)
+c) install webpack gloabally
+
+d)Install the modules and run the bash file (you'll need to manually run the commands on windows)
 
