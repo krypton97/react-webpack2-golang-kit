@@ -4,9 +4,9 @@ Simple starter kit for using react and webpack2 on the frontend and golang as ba
 
 Instllation:
 
-1.Download or clone this repo
+a)Download or clone this repo
 
-2. Edit the http.Dir() path
+b) Edit the http.Dir() path
 
-3.Install the modules and run the bash file (you'll need to manually run the commands on windows)
+c)Install the modules and run the bash file (you'll need to manually run the commands on windows)
 
